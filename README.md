@@ -1,5 +1,6 @@
 ## Employee Attrition Analysis - Case Study 2
 by James Weaver
+
 Project Video: https://youtu.be/b8GlNHwAKhY?si=qCJAyKKrW7IUTFOl
 
 # Introduction
